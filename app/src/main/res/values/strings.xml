@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Мац</string>
+    <string name="balance_label">Баланс: %1$d руб.</string>
+    <string name="level_label">Уровень: %1$d</string>
+    <string name="click_button_text">МАЦ!</string>
+    <string name="upgrade_click_label">Улучшить клик (+%1$d руб.)</string>
+    <string name="upgrade_click_price">Цена: %1$d руб.</string>
+    <string name="autoclicker_label">Автокликер (+%1$d руб./сек)</string>
+    <string name="autoclicker_price">Цена: %1$d руб.</string>
+    <string name="cigarettes_label">Сигареты (+5%% к пассиву)</string>
+    <string name="cigarettes_price">Цена: %1$d руб.</string>
+    <string name="level_up_msg">Ай саго!</string>
+</resources>
